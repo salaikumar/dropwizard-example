@@ -1,0 +1,4 @@
+target/
+.idea
+DropWizardExample.iml
+dependency-reduced-pom.xml
